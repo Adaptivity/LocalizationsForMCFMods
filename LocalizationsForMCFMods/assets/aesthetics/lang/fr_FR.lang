@@ -1,0 +1,80 @@
+//Minecraft Blocks
+tile.iron_bricks.name=Briques de fer
+tile.gold_bricks.name=Briques d'or
+tile.diamond_bricks.name=Briques de diamant
+	
+tile.iron_brick_stairs.name=Escaliers de briques de fer
+tile.gold_brick_stairs.name=Escaliers de briques d'or
+tile.diamond_brick_stairs.name=Escaliers de briques de diamant
+
+//SimpleOres Blocks
+tile.copper_bricks.name=Briques de cuivre
+tile.tin_bricks.name=Briques d'étain
+tile.mythril_bricks.name=Briques de mythril 
+tile.adamantium_bricks.name=Briques d'adamantium 
+tile.onyx_bricks.name=Briques d'onyx
+	
+tile.copper_brick_stairs.name=Escaliers de briques de cuivre
+tile.tin_brick_stairs.name=Escaliers de briques d'étain
+tile.mythril_brick_stairs.name=Escaliers de briques de mythril
+tile.adamantium_brick_stairs.name=Escaliers de briques d'adamantium
+tile.onyx_brick_stairs.name=Escaliers de briques d'onyx
+
+tile.copper_bars.name=Barres de cuivre
+tile.tin_bars.name=Barres d'étain
+tile.mythril_bars.name=Barres de mythril
+tile.adamantium_bars.name=Barres d'adamantium
+tile.onyx_bars.name=Barres d'onyx
+
+//SimpleOres Items
+item.mythril_door.name=Porte en mythril
+item.adamantium_door.name=Porte en adamantium
+item.onyx_door.name=Porte en onyx
+
+//Fusion Blocks
+tile.steel_bricks.name=Briques d'acier
+tile.bronze_bricks.name=Briques de bronze
+tile.thyrium_bricks.name=Briques de thyrium
+tile.sinisite_bricks.name=Briques de sinisite
+	
+tile.steel_brick_stairs.name=Escaliers de briques d'acier
+tile.bronze_brick_stairs.name=Escaliers de briques de bronze
+tile.thyrium_brick_stairs.name=Escaliers de briques de thyrium
+tile.sinisite_brick_stairs.name=Escaliers de briques de sinisite 
+
+tile.steel_bars.name=Barres d'acier
+tile.bronze_bars.name=Barres de bronze
+tile.thyrium_bars.name=Barres de thyrium
+tile.sinisite_bars.name=Barres de sinisite 
+
+//Fusion Items
+item.bronze_door.name=Porte en bronze
+
+//Netherrocks Blocks
+tile.fyrite_bricks.name=Briques de fyrite
+tile.malachite_bricks.name=Briques de malachite
+tile.ashstone_bricks.name=Briques de pierre-cendre
+tile.illumenite_bricks.name=Briques d'illuménite
+tile.dragonstone_bricks.name=Briques de pierre-dragon
+tile.argonite_bricks.name=Briques d'argonite
+	
+tile.fyrite_brick_stairs.name=Escaliers de briques de fyrite
+tile.malachite_brick_stairs.name=Escaliers de briques de malachite
+tile.ashstone_brick_stairs.name=Escaliers de briques de pierre-cendre
+tile.illumenite_brick_stairs.name=Escaliers de briques d'illuménite
+tile.dragonstone_brick_stairs.name=Escaliers de briques de pierre-dragon
+tile.argonite_brick_stairs.name=Escaliers de briques d'argonite
+
+tile.fyrite_bars.name=Barres de fyrite
+tile.malachite_bars.name=Barres de malachite
+tile.ashstone_bars.name=Barres de pierre-cendre
+tile.illumenite_bars.name=Barres d'illuménite
+tile.dragonstone_bars.name=Barres de pierre-dragon
+tile.argonite_bars.name=Barres d'argonite
+
+//Netherrocks Items
+item.dragonstone_door.name=Porte en pierre-dragon
+
+//Update Messages
+aesthetics.updateMessage1=§3Aesthetics §rest périmé. La dernière version est §c
+aesthetics.updateMessage2=§r. Veuillez mettre à jour depuis §9http://bit.ly/SimpleOres
