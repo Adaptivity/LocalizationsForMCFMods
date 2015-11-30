@@ -1,0 +1,14 @@
+itemGroup.tabBonecraft=BoneCraft
+
+tile.pamFossil.name=Fossile
+
+item.boneaxeItem.name=Hache en os
+item.bonehoeItem.name=Houe en os
+item.bonepickaxeItem.name=Pioche en os
+item.boneshovelItem.name=Pelle en os
+item.boneswordItem.name=Épée en os
+
+item.bonehelmItem.name=Casque en os
+item.bonechestItem.name=Plastron en os
+item.bonelegsItem.name=Jambières en os
+item.bonebootsItem.name=Bottes en os
