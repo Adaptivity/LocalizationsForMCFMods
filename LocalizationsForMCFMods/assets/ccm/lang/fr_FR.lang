@@ -1,0 +1,12 @@
+tile.ccmBlockBuilding.name=Bloc de construction
+tile.ccmBlockPlanner.name=Table de planification
+item.ccmItemBlueprint.name=Plan
+item.ccmItemCreationTool.name=Crayon
+item.ccmItemConstructionHelmet.name=Casque de sécurité
+item.ccmItemWoodHammer.name=Marteau en bois
+item.ccmItemStoneHammer.name=Marteau en pierre
+item.ccmItemIronHammer.name=Marteau en fer
+item.ccmItemGoldHammer.name=Marteau en or
+item.ccmItemDiamondHammer.name=Marteau en diamant
+
+itemGroup.tabConstruction=Mod de Construction de MrCrayfish
